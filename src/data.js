@@ -69,7 +69,7 @@ const menu = [
     category: 'bebida',
     price: 13.99,
     img: './images/item-9.jpeg',
-    desc: `Laranja e Limão.`,
+    desc: `Laranja, Limão e Maracujá. Sucos feitos na hora com frutas frescas. `,
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ const menu = [
     category: 'bebida',
     price: 13.99,
     img: './images/item-10.jpeg',
-    desc: `Refil.`,
+    desc: `Refil. Temos os mais variados sabores. Escolha o de sua preferência.`,
   },
 ];
 export default menu;
